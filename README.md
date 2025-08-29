@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my blog**
 
-- 🌱 I’m currently learning **cybersecurity , AI ...**
+- 🌱 I’m currently learning **React , AI ...**
 
 - 👯 I’m looking to collaborate on **any laravel projects**
 
